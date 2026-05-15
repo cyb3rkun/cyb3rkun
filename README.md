@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Cyb3r Kun
 
-<!--
-**cyb3rkun/cyb3rkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Software Developer** and **Hobbyist Digital Artist**.
+I enjoy tinkering, solving problems, digital art, and building systems
+and I Love learning new things.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Current Obsessions
+### **[LuaLuxa](https://github.com/LuaLuxa)** - A Modular Lua Ecosystem featuring:
+* **`lux`**: A robust Package manager written in **Rust**, built for declarative setup scripts and programmatic package installation directly inside Lua.   
+* **Core companion libraries**: Designed to make automation and Os Configuration seamless.  
+    	* **File System library** (Built with Rust)  
+		* **OS library** (System, `proc`, and environment modules built with Rust)
+### 🎭 **Linux-Native 3D Puppeteering (Godot)**
+Behind the scenes, I'm building a 3D VTubing tracking solution from scratch in Godot (currently unnamed).
+*   **The Goal:** A Linux-native puppeteering app that *just works*, offering deep customizability and advanced configuration.
+*   **Tracking Support:**
+    *   MediaPipe face, hand, and body tracking for high-fidelity webcam input.
+    *   Native VMC (Virtual Motion Capture) protocol support.
+    *   Planned integration for Android and iOS tracking apps.
+
+### 💻 **Workflow & Dev Environment**
+*   **Editor:** A highly customized **[Neovim](https://github.com/cyb3rkun/nvim)** configuration (`blink.cmp`, and custom Tree-sitter queries).
+*   **OS & WM:** Arch Linux running Hyprland (Wayland).
+*   **Hardware Setup:**
+    *   **Keyboard:** A self-built **[Corne Split Keyboard](https://github.com/cyb3rkun/qmk_userspace)** running custom QMK firmware with low-profile Gateron mechanical switches.
+    *   **Art Tech:** A Huion Kamvas Pro 13 tablet paired with **OpenTabletDriver** and **Krita** for sketching and character design on Linux.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyb3rkun&show_icons=true&theme=tokyonight-storm&hide_border=true" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rkun&layout=compact&theme=tokyonight-storm&hide_border=true&langs_count=6" alt="Top Languages" width="350"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[**DeviantArt**](https://deviantart.com/Cyb3r-Kun) | [**My Website**](https://cyb3rs.com)
+
+*"Optimizing workflows, one dotfile and brush stroke at a time."*
