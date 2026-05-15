@@ -31,11 +31,7 @@ Behind the scenes, I'm building a 3D VTubing tracking solution from scratch in G
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyb3rkun&show_icons=true&theme=tokyonight-storm&hide_border=true" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rkun&layout=compact&theme=tokyonight-storm&hide_border=true&langs_count=6" alt="Top Languages" width="350"/>
-</p>
-
+![Stats](./profile/stats.svg)
 ---
 
 ## 🌐 Connect With Me
