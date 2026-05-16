@@ -32,6 +32,8 @@ Behind the scenes, I'm building a 3D VTubing tracking solution from scratch in G
 ## 📊 GitHub Stats
 
 ![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+
 ---
 
 ## 🌐 Connect With Me
